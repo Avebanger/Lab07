@@ -15,7 +15,7 @@
 
 ### Блок-схема
 
-(https://github.com/Avebanger/Lab07/blob/master/Лаб_7.png)
+![схема](https://github.com/Avebanger/Lab07/blob/master/Лаб_7.png)
 
 ## 2. Реализация программы
 ```
